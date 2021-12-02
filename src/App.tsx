@@ -21,6 +21,7 @@ function App() {
     <Router>
         <div className="App">
             <Switch>
+                { /* React router docs https://reactrouter.com/docs/en/v6 */}
                 <Route exact path="/" component={ ExampleComponent } />
                 <Route path="*" component={ FourZeroFour } />
             </Switch>

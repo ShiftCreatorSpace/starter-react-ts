@@ -1,22 +1,22 @@
-# React Typescript (just add water) Starter Code
+# React Typescript Starter Code
 
-granularity: file & code structure, basic react router integration, example types
+Template granularity: File & code structure, basic react router integration, example types and components.
 
-added by @eric
+authored by @zhongeric
 
-## getting started
+## Getting started
 
-Fork this repo and off you go!
+Click the `Use this template` button above, in the top level directory run `npm install && npm start`!
 
-## what is this?
+## What is this?
 
 Great question. This is the standard typescript create-react-app with react-router, improved file structure and code organization. And, it has some sample code for tricky stuff like typing Props for components and what not.
 
-## lol ok why don't I just use create-react-app
+## Lol ok why don't I just use create-react-app
 
 You can, but I think this will save you some time. :)
 
-## how do I deploy & publish this?
+## How do I deploy & publish this?
 
 I recommend Netlify (https://www.netlify.com/), it's free and super simple to use. Make an account and set up a new site from Git. Then link your Github and select your project's repo. And boom, it'll auto deploy whenever you push to main / master.
 
@@ -24,11 +24,15 @@ P.S. If you're getting errors when deploying related to warnings being treated a
 
 If you don't want to use netlify, there are ways of hosting it yourself ranging from using a web proxy like Nginx to a totally comprehensive solution like Google Cloud App Engine or AWS.
 
-## can I contribute?
+## Can I contribute?
 
 Yes! Just make a PR
 
-## here's the lame create react app stuff below
+## License
+
+Use for whatever, personal or commercial :)
+
+## Here's the lame create react app stuff below
 
 ---
 
